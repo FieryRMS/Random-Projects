@@ -1,4 +1,4 @@
-# Encrptor
+# Encrptor V2
 a console app. Does a bunch of bit shifts, bit flips on a block of bits based on password
 
 made in 2021
